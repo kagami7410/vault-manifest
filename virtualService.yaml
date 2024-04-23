@@ -15,9 +15,9 @@ spec:
 
     route:
     - destination:
-        host: vault-example.vault-example.svc.cluster.local
+        host: vault-example-ui.vault-example.svc.cluster.local
         port:
-          number: 8200
+          number: 8080
 
 
 
